@@ -38,5 +38,5 @@ Erro: divisão por zero não é permitida.
 Digite a operação (+, -, *, /) ou 'sair' para encerrar: sair
 Encerrando a calculadora. Até mais!
 
-Autor
+Autora
 Daiane Moreira Horbach
